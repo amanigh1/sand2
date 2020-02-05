@@ -290,6 +290,10 @@ h2 {
     .section-title {
         font-size: 28px;
     }
+    
+        .navbar {
+        background: rgba(0,0,0,.8);
+    }
 
 }
 
